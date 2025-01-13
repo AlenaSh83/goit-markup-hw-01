@@ -138,6 +138,7 @@ color: #434455;
 
 
 .team {
+    background-color: #F4F4FD;
 }
 .team-head {
 font-weight: 700;
@@ -148,10 +149,12 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize;
 }
 .team-list {
 }
 .team-item {
+    background-color: #FFFFFF;
 }
 .team-photo {
 }
