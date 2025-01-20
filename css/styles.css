@@ -58,11 +58,12 @@ ul {
 .cont-header{
     display: flex;
     align-items: center;
+    width: 1158px;
 
 }
 .header{
     border-bottom: 1px solid #e7e9fc;
-    width: 1158px; 
+     
    
 }
 .header-nav {
