@@ -305,8 +305,6 @@ display: block;
 align-items: center;
 }
 .team-list {
-    
-    padding-bottom: 120px;
     gap: 24px;
     display: flex;
     align-items: center;
